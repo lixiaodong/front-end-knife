@@ -3,11 +3,11 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="PublishGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Uml.ShowDiff" />
-  <action id="VCS.Deployment.Upload">
-    <keyboard-shortcut first-keystroke="ctrl meta u" />
-  </action>
 </keymap>

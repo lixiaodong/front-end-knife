@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6123980-2a9d-4b10-97db-26d136d638bf" name="jtrade-otc-web" url="http://120.79.114.196">
+        <fileTransfer host="120.79.114.196" port="22" rootFolder="/opt/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

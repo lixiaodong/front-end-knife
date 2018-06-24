@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="blocks" type="PLAIN_TEXT" />
       <mapping pattern="trades" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

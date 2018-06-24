@@ -3,6 +3,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="PublishGroup">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>

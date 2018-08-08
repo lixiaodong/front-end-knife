@@ -1,5 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Diff.ShowSettingsPopup" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
